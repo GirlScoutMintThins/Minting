@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GirlScoutMintThins/Adjusting/main/MintAimbot.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GirlScoutMintThins/MintGUi/main/MINTS.lua))()
 
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
